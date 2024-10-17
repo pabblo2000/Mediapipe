@@ -3,13 +3,14 @@
 
 Este repositorio contiene ejemplos y pruebas de las funcionalidades de [Mediapipe](https://mediapipe.dev/), una librería desarrollada por Google para la implementación de soluciones de procesamiento de visión por computadora en tiempo real.
 
-Actualmente, el repositorio contiene tres directorios principales:
+Actualmente, el repositorio contiene cuatro directorios principales:
 
 ## Directorios
 
 - **face_detection**: Ejemplos de uso para la detección de rostros con Mediapipe.
 - **hand_detection**: Ejemplos de uso para la detección de manos con Mediapipe.
 - **facemesh**: Ejemplos de uso para la creación de mallas faciales (FaceMesh), que utilizan los modelos de Face Detection y Face Landmark de Mediapipe.
+- **pose_detection**: Ejemplos de uso para la detección de poses humanas con Mediapipe.
 
 ## Sobre Mediapipe
 

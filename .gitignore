@@ -2,3 +2,5 @@
 # Ignorar las fotos
 *.jpg
 *.webp
+*.png
+*.jpeg
