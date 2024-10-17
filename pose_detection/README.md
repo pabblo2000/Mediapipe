@@ -42,4 +42,3 @@ python pose_video.py
 
 - [Documentación de Mediapipe](https://mediapipe.dev/)
 - [Repositorio de GitHub de Mediapipe](https://github.com/google/mediapipe)
-

@@ -1,6 +1,6 @@
 .venv/
 # Ignorar las fotos
-*.jpg
-*.webp
-*.png
-*.jpeg
+face_detection/img/
+facemesh/img/
+hand_detection/img/
+pose_detection/img/
